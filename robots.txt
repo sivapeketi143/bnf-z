@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sivapeketi143.github.io/bnf-z/sitemap.xml
